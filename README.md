@@ -19,7 +19,8 @@ I’m a **Computer Science student** aiming to grow into a **Full-Stack Develope
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img width="30%" height="190" src="https://github-readme-stats.vercel.app/api?username=Deepakbhat-18&show_icons=true&theme=algolia&hide_border=true" />
+  <img width="30%" height="190"
+     src="https://github-readme-stats.vercel.app/api?username=Deepakbhat-18&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true" />
 <img width="30%" height="190" src="https://streak-stats.vercel.app?user=Deepakbhat-18&theme=tokyonight&hide_border=false&border_radius=5"/>
   <img width="38%" height="190" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepakbhat-18&theme=tokyo-night&hide_border=true" />
 </p>
