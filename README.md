@@ -3,7 +3,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /> Hey, I'm Deepak Bhat
 
-**Software Developer • Java Backend • Full Stack Developer**
+**Software Developer • Full Stack Developer**
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=620&lines=Building+Scalable+Full-Stack+Applications;Spring+Boot+%7C+React+Developer;Passionate+about+Backend+Engineering;Learning+System+Design+and+Software+Architecture"
