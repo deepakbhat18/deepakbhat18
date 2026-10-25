@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" /> Hey, I'm Deepak Bhat
@@ -21,8 +20,6 @@ alt="Typing Intro"/>
 
 <a href="mailto:deepakravindrabhat@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </a>
 
 </div>
@@ -60,9 +57,9 @@ I enjoy building secure, scalable, and user-friendly applications using **Java, 
 
 | Project | Description |
 |---------|-------------|
-| **🦷 OralCare** | Dental Clinic Management System built with **Spring Boot, React & PostgreSQL** featuring JWT Authentication, RBAC, real-time queue management, automated email notifications, treatment tracking, and optimized REST APIs. |
-| **📅 BookMySlot** | Full-stack Event & Slot Booking platform supporting **Admin, Staff, Teachers & Students** with event management, booking workflow, analytics dashboard, email notifications, and MySQL optimization. |
-| **🏠 HomeService** | Service Marketplace application with **Spring Security**, Swagger/OpenAPI documentation, RBAC, REST APIs, modular architecture, and support for multiple service categories. |
+| **[🦷 OralCare](https://github.com/deepakbhat18/oralcare)** | Dental Clinic Management System built with **Spring Boot, React & PostgreSQL** featuring JWT Authentication, RBAC, real-time queue management, automated email notifications, treatment tracking, and optimized REST APIs. |
+| **[📅 BookMySlot](https://github.com/deepakbhat18/bookmyslot)** | Full-stack Event & Slot Booking platform supporting **Admin, Staff, Teachers & Students** with event management, booking workflow, analytics dashboard, email notifications, and MySQL optimization. |
+| **[🩺 FedMedAI](https://github.com/deepakbhat18/FedMedAI-backend)** | Decentralized, privacy-preserving healthcare AI platform featuring a **React frontend, Spring Boot backend, and Flower federated ML engine**. Enables collaborative multi-disease diagnosis and clinical decision support across hospitals without sharing raw patient data. |
 
 ---
 
