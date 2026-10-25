@@ -35,19 +35,31 @@ I enjoy building secure, scalable, and user-friendly applications using **Java, 
 ---
 
 ## Tech Stack
+
 <div align="center">
 
-<b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c,html,css" /><br>
-
-<b>Frameworks & Libraries</b><br>
-<img src="https://skillicons.dev/icons?i=spring,react" /><br>
-
-<b>Databases</b><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br>
-
-<b>Tools</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux" />
+<table>
+<tr>
+<th>Languages</th>
+<th>Frameworks</th>
+<th>Databases</th>
+<th>Tools</th>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c,html,css" alt="Languages" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring,react,fastapi" alt="Frameworks" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Databases" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,linux,githubactions,docker,maven" alt="Tools" />
+</td>
+</tr>
+</table>
 
 </div>
 
